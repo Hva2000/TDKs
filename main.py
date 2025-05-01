@@ -144,4 +144,4 @@ def export_peaks_to_csv(freqs_sim, spec_sim, freqs_real, spec_real, filename="sp
 save_top_peaks_txt(freq_sim, spec_sim, freq_real, spec_real)
 export_peaks_to_csv(freq_sim, spec_sim, freq_real, spec_real)
 
-print("\n Projekt kész! Minden fájl mentve: .wav, .png, .txt, .csv ✅")
+print("\n fullos")
